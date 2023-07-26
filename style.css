@@ -1,0 +1,10 @@
+/* Definir o fundo preto */
+body {
+    background-color: black;
+  }
+  
+  /* Definir a cor do texto como branco */
+  body, p, h1, h2, h3, h4, h5, h6 {
+    color: white;
+  }
+  
