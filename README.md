@@ -1,1 +1,1 @@
-# gojosatoru
+# Bezerky landing page
